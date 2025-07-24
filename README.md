@@ -41,7 +41,7 @@ This app uses TypeScript to provide strict typing and better developer experienc
 ```
 
   /api          # API request functions and TypeScript types (e.g., WeatherData type)
-  /components   # Reusable UI components (SearchBar, WeatherCard, Header, etc.)
+  /components   #  UI components (SearchBar, WeatherCard, Header, etc.)
   /utils        # Helper functions for temperature conversions, time formatting
   /ui           # Main pages (e.g., Home.tsx)
   /src
@@ -79,7 +79,7 @@ These helpers centralize all conversion and formatting logic, keeping components
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/iRezaAkhlaghi/sky-pulse.git
+   git clone https://github.com/iRezaAkhlaghi/Sky-Pulse-Weather-Forecast-App.git   
    cd sky-pulse
    ```
 
@@ -90,10 +90,8 @@ These helpers centralize all conversion and formatting logic, keeping components
 
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
